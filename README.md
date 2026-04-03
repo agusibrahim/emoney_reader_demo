@@ -177,8 +177,8 @@ Kartu Mandiri e-Money memiliki SAK value:
 ## 📝 Catatan
 
 - Firmware ini **khusus untuk Mandiri e-Money**
-- Kartu e-money lain (Flazz, Brizzi, TapCash) **tidak didukung**
-- Untuk multi-card support, lihat project [irdump-esp32c3](https://github.com/agusibrahim/esp32-irdump)
+- Kartu e-money lain (Flazz, Brizzi, TapCash) **baca keterangan dibawah**
+- Untuk multi-card support, lihat keterangan dibawah
 
 ## ⚠️ Disclaimer
 
